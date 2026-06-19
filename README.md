@@ -30,10 +30,10 @@ Model interpretation was performed using SHAP (SHapley Additive exPlanations).
 
 ## Repository Structure
 
-* `data/` – datasets and feature matrices
+* `data/` – datasets, labels, and feature matrices
 * `notebooks/` – model training and analysis notebooks
+* `models/` – trained Random Forest and XGBoost models
 * `results/` – model outputs, figures, and rankings
-* `docs/` – feature descriptions and references
 
 ## Data Sources
 
