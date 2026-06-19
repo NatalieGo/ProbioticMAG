@@ -51,8 +51,7 @@ Bakta was used to annotate reference genomes and reconstructed MAGs. Functional 
 Software: [Bakta](https://github.com/oschwengers/bakta)
 
 Publication:
-Schwengers O. et al. (2021). Bakta: rapid and standardized annotation of bacterial genomes via alignment-free sequence identification. Microbial Genomics.
-[Schwengers et al., 2021 (Microbial Genomics)](https://doi.org/10.1099/mgen.0.000685)
+[Schwengers O. et al. (2021). Bakta: rapid and standardized annotation of bacterial genomes via alignment-free sequence identification. Microbial Genomics.](https://doi.org/10.1099/mgen.0.000685)
 
 ## Citation
 
